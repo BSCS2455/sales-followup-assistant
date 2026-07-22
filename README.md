@@ -20,7 +20,7 @@ a freelancer, small-business owner, or individual sales rep who doesn't need
 
 ### b. Live app
 
-**[https://your-app-name.vercel.app](https://your-app-name.vercel.app)** — replace with your real Vercel URL once deployed.
+**[[https://your-app-name.vercel.app](https://sales-followup-assistant.vercel.app/)]** 
 
 ### c. Features
 
